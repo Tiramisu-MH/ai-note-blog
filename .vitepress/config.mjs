@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '中国房地产、生产及消费：顶层设计下的未来', link: '/posts/china-real-estate-future' },
           { text: '你真看懂了2026年中国经济趋势吗？', link: '/posts/china-economy-2026' },
           { text: '大事正在发生', link: '/posts/big-things-happening' },
           { text: 'Hello AI', link: '/posts/hello-ai' }
