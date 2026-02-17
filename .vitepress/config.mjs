@@ -11,7 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/posts/hello-ai' },
+      { text: '文章', link: '/posts/big-things-happening' },
       { text: '关于', link: '/about' }
     ],
 
@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '大事正在发生', link: '/posts/big-things-happening' },
           { text: 'Hello AI', link: '/posts/hello-ai' }
         ]
       }
