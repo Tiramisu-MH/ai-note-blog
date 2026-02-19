@@ -13,6 +13,8 @@ tags: ["认知", "复盘", "ChatGPT", "Gemini", "笔记", "方法论"]
 
 ---
 
+[![Image 1: Image](https://pbs.twimg.com/media/HBViefAbcAY31Ui?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023631883431800838)
+
 我让AI复盘了一年的聊天记录,发现了20次认知跃迁
 
 前两天做了一件有点变态的事。
@@ -32,6 +34,8 @@ tags: ["认知", "复盘", "ChatGPT", "Gemini", "笔记", "方法论"]
 关掉对话框之后，这些东西就消失了。太浪费了。
 
 ---
+
+[![Image 2: Image](https://pbs.twimg.com/media/HBVi02xaYAABftu?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023632267768389632)
 
 大多数人对 AI 的使用还停留在“有问题问一下”。
 
@@ -58,6 +62,8 @@ AI 对话记录 = 你最关心的问题 + 重复出现的困惑 + 认知突破�
 
 ---
 
+[![Image 3: Image](https://pbs.twimg.com/media/HBVoWwobcAYi5XL?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023638347793788934)
+
 两天时间，45 次 git commit，最终提取：
 
 - 20 次认知跃迁
@@ -71,6 +77,8 @@ AI 对话记录 = 你最关心的问题 + 重复出现的困惑 + 认知突破�
 每条都是一次真实的思维转变：
 
 ---
+
+[![Image 4: Image](https://pbs.twimg.com/media/HBVkppxaYAAi5ze?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023634274323423232)
 
 🛠️ 产品策略：25 条
 
@@ -102,6 +110,10 @@ AI 对话记录 = 你最关心的问题 + 重复出现的困惑 + 认知突破�
 
 但对话记录告诉我：我 commit 了一万次，从来没走过一次完整的 ship 流程。
 
+---
+
+[![Image 5: Image](https://pbs.twimg.com/media/HBVlAcJbcAQryXu?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023634665803051012)
+
 commit 是封闭系统迭代，反馈来自自己。
 
 ship 是把产品暴露给真实用户。
@@ -117,6 +129,8 @@ ship 是把产品暴露给真实用户。
 最贵的不是失败，是不知道为什么失败。
 
 ---
+
+[![Image 6: Image](https://pbs.twimg.com/media/HBVldN1aoAA_Ofo?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023635160177221632)
 
 慢反馈会让因果关系模糊。
 
@@ -134,6 +148,8 @@ ship 是把产品暴露给真实用户。
 
 ---
 
+[![Image 7: Image](https://pbs.twimg.com/media/HBVlwSNasAAl8N6?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023635487769145344)
+
 这些认知跃迁不是突然发生的。
 
 它们藏在：
@@ -147,6 +163,8 @@ ship 是把产品暴露给真实用户。
 你的 AI 聊天记录里，大概率也藏着你自己都没意识到的成长轨迹。
 
 ---
+
+[![Image 8: Image](https://pbs.twimg.com/media/HBVmK_lbcAIWe8O?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023635946626052098)
 
 最近 AI 圈的节奏：
 
@@ -169,6 +187,8 @@ Skill、OpenClaw，这些 AI 圈天天刷屏的东西，身边没一个人听说
 那一刻突然意识到：脱节的不是他们，是我。
 
 ---
+
+[![Image 9: Image](https://pbs.twimg.com/media/HBVmfONbcAIXxFa?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023636294149304322)
 
 我们天天追热点的人，可能只是在给自己制造焦虑，把自己卷进了一个根本不存在的紧迫感里。
 
@@ -197,6 +217,8 @@ ChatGPT / Gemini / Claude 都支持导出
 
 ---
 
+[![Image 10: Image](https://pbs.twimg.com/media/HBVm5-mbcAAKGGY?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023636753815662592)
+
 当你完成这个复盘，你会看到一条清晰的成长轨迹。
 
 那些曾经困扰你的问题，现在已经有了答案。
@@ -210,6 +232,8 @@ ChatGPT / Gemini / Claude 都支持导出
 现在，AI 帮你把这些成长可视化了。
 
 ---
+
+[![Image 11: Image](https://pbs.twimg.com/media/HBVnHW0bcAML0ZR?format=jpg&name=small)](https://x.com/guishou_56/article/2023639714281222265/media/2023636983655133187)
 
 下次做重大决策前，翻一遍自己的跃迁清单。
 
