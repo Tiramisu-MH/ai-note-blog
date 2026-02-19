@@ -1,7 +1,7 @@
 ---
 title: "我用 OpenClaw 搭了一套 5 角色 AI 协作操作系统"
 author: "余温 (转载自 X)"
-date: 2026-02-19 12:00:00
+date: 2026-02-19 15:49:45
 tags: ["OpenClaw", "AI", "多智能体", "Discord", "系统架构"]
 ---
 
