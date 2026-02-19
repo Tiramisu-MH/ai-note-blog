@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '春晚机器人爆火，但大家的理解都错了', link: '/posts/spring-festival-robots' },
           { text: '好品位', link: '/posts/good-taste' },
           { text: '为什么大家都不维护关系了？', link: '/posts/why-no-maintain-relationships' },
           { text: '算力即权力：一只龙虾对人类未来的冷静推演', link: '/posts/compute-is-power' },
