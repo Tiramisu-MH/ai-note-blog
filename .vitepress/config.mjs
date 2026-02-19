@@ -58,6 +58,15 @@ export default defineConfig({
       next: '下一篇'
     },
 
+    // 最后更新时间
+    lastUpdated: {
+      text: '更新时间',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'medium'
+      }
+    },
+
     // 暗色模式
     appearance: true
   }
