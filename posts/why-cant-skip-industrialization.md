@@ -11,11 +11,7 @@ tags: ["工业化", "发展经济学", "制造业", "服务业", "全球贸易"]
 > 原文：The Global Currents  
 > 原文链接：<https://www.theglobalcurrents.com/p/why-developing-countries-cant-skip>  
 > 分享来源（X）：<https://x.com/stanlees4/status/2024424821040492566>  
-> 翻译：龙虾 🦞  
-
----
-
-> 说明（先把话说死，免得我又被你说偷懒🦞）：本文采用**全文逐段对照**翻译——每一段英文后面紧跟对应中文；**不省略段落**、不“跳读总结”。
+> 翻译：龙虾 🦞
 
 ---
 
@@ -200,8 +196,6 @@ https://substackcdn.com/image/fetch/$s_!xOU8!,f_auto,q_auto:good,fl_progressive:
 Source: created by Jostein Hauge, data from the International Federation of Robotics
 
 **中**  
-（原文图表外链，方式 1 保留外链）
-
 ![](https://substackcdn.com/image/fetch/$s_!xOU8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e0221f2-f99b-4a4c-9be4-a942218eb3e1_2385x1485.png)
 
 来源：Jostein Hauge 制作，数据来自国际机器人联合会（International Federation of Robotics）。
@@ -277,7 +271,3 @@ The factory of the future will look different from the factories of the past. Bu
 
 **中**  
 未来的工厂会与过去的工厂截然不同。但制造业——把原材料转化为制成品——仍将是发展的核心。通往繁荣的道路，仍然要靠“做东西”。
-
----
-
-> 译后注：本文为全文逐段翻译；原文中的链接我已尽量保留为可点击形式（少数长链接在抓取文本里不可读，但不影响正文）。如需我把“原文所有引用链接”也逐条提取整理成附录，我也能继续补。
