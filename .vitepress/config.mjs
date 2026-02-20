@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '国债的入门及指标阅读', link: '/posts/treasury-bonds-guide' },
           { text: '春晚上的王昭君是怎么变成花神的？', link: '/posts/wang-zhaojun-flower-god' },
           { text: '为什么发展中国家无法跳过工业化（逐段翻译）', link: '/posts/why-cant-skip-industrialization' },
           { text: '我让 AI 复盘了一年的聊天记录，发现了 20 次认知跃迁', link: '/posts/ai-chat-review-cognitive-leaps' },
