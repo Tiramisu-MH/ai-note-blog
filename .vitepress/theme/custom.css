@@ -61,14 +61,21 @@
   display: none;
 }
 
+/* 内容区向左扩展填补侧边栏空间 */
 .sidebar-collapsed .VPContent {
+  --vp-sidebar-width: 0px !important;
+}
+
+.sidebar-collapsed .VPContent.has-sidebar {
   margin-left: 0 !important;
-  padding-left: 32px;
-  padding-right: 32px;
 }
 
 .sidebar-collapsed .VPDoc {
   padding-left: 0;
+}
+
+.sidebar-collapsed .VPDoc .container {
+  max-width: none;
 }
 
 .sidebar-collapsed .VPDocAside {
