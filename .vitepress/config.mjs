@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '红色金融解构｜枪杆子如何充实钱袋子', link: '/posts/red-finance-deconstruction' },
           { text: '2028 全球智能危机：AI 颠覆经济的深度推演', link: '/posts/global-intelligence-crisis-2028' },
           { text: '国债的入门及指标阅读', link: '/posts/treasury-bonds-guide' },
           { text: '春晚上的王昭君是怎么变成花神的？', link: '/posts/wang-zhaojun-flower-god' },
