@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '高端相亲机构的婚托骗局', link: '/posts/high-end-dating-scam' },
           { text: '为什么砍不掉体制内养老金？', link: '/posts/why-pension-cant-be-cut' },
           { text: '血腥一带一路：谁在赚钱，谁在赔命', link: '/posts/bloody-belt-and-road' },
           { text: '红色金融解构｜枪杆子如何充实钱袋子', link: '/posts/red-finance-deconstruction' },
