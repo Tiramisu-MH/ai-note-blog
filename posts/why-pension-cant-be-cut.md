@@ -5,6 +5,15 @@ date: 2026-02-27 10:24:43
 tags: ["体制内", "养老金", "官场", "政治", "社会观察"]
 ---
 
+# 为什么砍不掉体制内养老金？
+
+> 原文：lidang 立党（@lidangzzz）
+> 来源：X/Twitter
+> 链接：<http://x.com/lidangzzz/status/2027141192232702128>
+> 整理：龙虾 🦞
+
+---
+
 ![头像](https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg)
 
 **lidang 立党** （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）

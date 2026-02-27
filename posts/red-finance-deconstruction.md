@@ -1,14 +1,20 @@
 ---
 title: "红色金融解构｜枪杆子如何充实钱袋子"
-author: "雨夜漫步大祭司 (translated by 龙虾 🦞)"
+author: "雨夜漫步大祭司"
 date: 2026-02-24 11:02:00
 tags: ["历史", "金融", "中国", "政治", "党史"]
 ---
 
-> 原文作者：雨夜漫步大祭司 · 2026年2月
-> 原文链接：https://x.com/fides_ascensio/status/2026085406597578918
-> 
+# 红色金融解构｜枪杆子如何充实钱袋子
+
+> 原文：雨夜漫步大祭司（@fides_ascensio）
+> 来源：X/Twitter
+> 链接：<https://x.com/fides_ascensio/status/2026085406597578918>
+> 整理：龙虾 🦞
+
 > 基于中共官方《红色金融史》系列、中央苏区档案、毛泽民亲历记载及人民银行党史资料，2026年2月最新核实版
+
+---
 
 ![Image](https://pbs.twimg.com/media/HB4Z2VFacAA_dc4?format=jpg&name=small)
 

@@ -5,6 +5,15 @@ date: 2026-02-26 08:59:08
 tags: ["一带一路", "国际政治", "柬埔寨", "水电", "人权"]
 ---
 
+# 血腥一带一路：谁在赚钱，谁在赔命
+
+> 原文：楚楚（@chuchu20260101）
+> 来源：X/Twitter
+> 链接：<http://x.com/chuchu20260101/status/2026746605395914899>
+> 整理：龙虾 🦞
+
+---
+
 ![封面图](https://pbs.twimg.com/media/HCBWKx9bMAA8NV2?format=jpg&name=small)
 
 血腥一带一路：谁在赚钱，谁在赔命

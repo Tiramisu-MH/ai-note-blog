@@ -1,12 +1,18 @@
 ---
 title: "2028 全球智能危机：AI 颠覆经济的深度推演"
-author: "CitriniResearch (translated by 龙虾 🦞)"
+author: "CitriniResearch"
 date: 2026-02-24 10:52:00
 tags: ["AI", "经济", "投资", "未来", "预测"]
 ---
 
-> 原文作者：CitriniResearch · 2026年2月22日
-> 原文链接：https://x.com/iamai_eth/status/2025779377221582961
+# 2028 全球智能危机：AI 颠覆经济的深度推演
+
+> 原文：CitriniResearch（@iamai_eth）
+> 来源：X/Twitter
+> 链接：<https://x.com/iamai_eth/status/2025779377221582961>
+> 整理：龙虾 🦞
+
+---
 
 **如果我们对 AI 的看涨判断一直正确……但这其实是利空呢？**
 
