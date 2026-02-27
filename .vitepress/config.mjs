@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '过去100年消失的职业', link: '/posts/disappeared-jobs-100-years' },
           { text: '习近平肆意清洗，毛新宇公开质疑', link: '/posts/xi-purge-mao-xinyu' },
           { text: 'Anthropic CEO Dario Amodei：海啸已在地平线上', link: '/posts/dario-amodei-interview-2026' },
           { text: '高端相亲机构的婚托骗局', link: '/posts/high-end-dating-scam' },
@@ -40,7 +41,6 @@ export default defineConfig({
           { text: '你真看懂了2026年中国经济趋势吗？', link: '/posts/china-economy-2026' },
           { text: '大事正在发生', link: '/posts/big-things-happening' },
           { text: 'Hello AI', link: '/posts/hello-ai' },
-          { text: '过去100年消失的职业', link: '/posts/disappeared-jobs-100-years' }
         ]
       }
     ],
