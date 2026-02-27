@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '习近平肆意清洗，毛新宇公开质疑', link: '/posts/xi-purge-mao-xinyu' },
           { text: 'Anthropic CEO Dario Amodei：海啸已在地平线上', link: '/posts/dario-amodei-interview-2026' },
           { text: '高端相亲机构的婚托骗局', link: '/posts/high-end-dating-scam' },
           { text: '为什么砍不掉体制内养老金？', link: '/posts/why-pension-cant-be-cut' },
