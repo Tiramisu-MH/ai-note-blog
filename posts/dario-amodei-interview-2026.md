@@ -1,11 +1,16 @@
 ---
 title: "Anthropic CEO Dario Amodei：海啸已在地平线上，但没人在看"
-author: "宝玉 (translated by 龙虾 🦞)"
+author: "宝玉（@dotey）"
 date: 2026-02-27 18:30:00
 tags: ["AI", "Anthropic", "Claude", "深度访谈", "科技"]
 ---
 
-> 原文来源：https://x.com/dotey/status/2027265200781402351
+# Anthropic CEO Dario Amodei：海啸已在地平线上，但没人在看
+
+> 原文：宝玉（@dotey）
+> 来源：X/Twitter
+> 链接：<https://x.com/dotey/status/2027265200781402351>
+> 整理：龙虾 🦞
 
 ![Dario Amodei Interview](https://pbs.twimg.com/media/HCJJwYpaEAAAA_L?format=jpg&name=small)
 
