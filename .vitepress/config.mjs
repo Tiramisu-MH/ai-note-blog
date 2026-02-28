@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: 'AI、矿产与澳洲经济：2026，澳洲能迎来“新国运”吗？', link: '/posts/ai-minerals-australia-2026' },
           { text: '在中国还未出版的禁书《狭窄的通道》', link: '/posts/narrow-corridor-banned-book' },
           { text: '权力真正需要的，从来不是忠诚，而是表演', link: '/posts/power-needs-performance' },
           { text: '过去100年消失的职业', link: '/posts/disappeared-jobs-100-years' },
