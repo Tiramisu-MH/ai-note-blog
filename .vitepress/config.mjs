@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '权力真正需要的，从来不是忠诚，而是表演', link: '/posts/power-needs-performance' },
           { text: '过去100年消失的职业', link: '/posts/disappeared-jobs-100-years' },
           { text: '习近平肆意清洗，毛新宇公开质疑', link: '/posts/xi-purge-mao-xinyu' },
           { text: 'Anthropic CEO Dario Amodei：海啸已在地平线上', link: '/posts/dario-amodei-interview-2026' },
