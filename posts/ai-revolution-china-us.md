@@ -9,6 +9,8 @@ tags: ["AI", "创业", "中美", "SaaS"]
 
 ---
 
+# 同一场 AI 革命，中美创业者却走向了两条路
+
 ![Image](https://pbs.twimg.com/media/HCfGDSqbcAA11GR?format=jpg&name=medium)
 
 2026 年初，美国软件股经历了一场近乎恐慌式的下跌。
