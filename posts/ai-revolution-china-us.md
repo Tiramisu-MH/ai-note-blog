@@ -1,7 +1,12 @@
-来源：[Ray Wang](https://x.com/wangray/status/2028817237411610964) 的 X/Twitter 推文
-整理：by 蛋黄 🐱
-日期：2026-03-05 13:20:00
-标签：AI、创业、中美、SaaS
+# 同一场 AI 革命，中美创业者却走向了两条路
+
+> 来源：[Ray Wang](https://x.com/wangray/status/2028817237411610964) 的 X/Twitter 推文
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-03-05 13:20:00
+>
+> 标签：AI、创业、中美、SaaS
 
 ---
 
@@ -21,13 +26,9 @@
 
 ## Alex Immerman
 
-![Avatar](https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_bigger.png)
-
-[@aleximm](https://x.com/aleximm)
-
 ![Article](https://pbs.twimg.com/media/HCaguR1WAAAzOdw?format=jpg&name=small)
 
-[Good News: AI Will Eat Application Software](https://a16z.com/ai-will-eat-application-software/)
+[@aleximm](https://x.com/aleximm): [Good News: AI Will Eat Application Software](https://a16z.com/ai-will-eat-application-software/)
 
 a16z 合伙人 Alex Immerman 最近写了一篇很有代表性的文章。他的核心判断是，模型变强不会让应用层变薄，反而会让应用层更有价值。因为真正稀缺的从来不是"智能"本身，而是"知道拿智能做什么"。
 
