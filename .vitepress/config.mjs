@@ -21,6 +21,7 @@ export default defineConfig({
         items: [
           { text: '别急着赶路，先想清楚你要去哪儿', link: '/posts/endgame-thinking' },
           { text: '同一场 AI 革命，中美创业者却走向了两条路', link: '/posts/ai-revolution-china-us' },
+          { text: '社交高手处理人际关系的诀窍', link: '/posts/social-skills' },
           { text: '28号，随笔', link: '/posts/essay-28th' },
           { text: 'AI、矿产与澳洲经济：2026，澳洲能迎来“新国运”吗？', link: '/posts/ai-minerals-australia-2026' },
           { text: '在中国还未出版的禁书《狭窄的通道》', link: '/posts/narrow-corridor-banned-book' },
