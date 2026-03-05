@@ -1,16 +1,11 @@
----
-title: "同一场 AI 革命，中美创业者却走向了两条路"
-author: "Ray Wang (translated by 龙虾 🦞)"
-date: 2026-03-05 13:20:00
-tags: ["AI", "创业", "中美", "SaaS"]
----
-
 来源：[Ray Wang](https://x.com/wangray/status/2028817237411610964) 的 X/Twitter 推文
 整理：by 蛋黄 🐱
 日期：2026-03-05 13:20:00
 标签：AI、创业、中美、SaaS
 
 ---
+
+[![Image](https://pbs.twimg.com/media/HCfGDSqbcAA11GR?format=jpg&name=medium)](https://x.com/wangray/article/2028817237411610964/media/2028807917005402112)
 
 同一场 AI 革命，中美创业者却走向了两条路
 
@@ -26,7 +21,11 @@ tags: ["AI", "创业", "中美", "SaaS"]
 
 ## Alex Immerman
 
+![Avatar](https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_bigger.png)
+
 [@aleximm](https://x.com/aleximm)
+
+![Article](https://pbs.twimg.com/media/HCaguR1WAAAzOdw?format=jpg&name=small)
 
 [Good News: AI Will Eat Application Software](https://a16z.com/ai-will-eat-application-software/)
 
@@ -111,7 +110,7 @@ Harvey、Hebbia、EliseAI 这类公司，之所以越来越值钱，并不是因
 
 你的客户未必想买一个新工具。他更想听到的是：你现在这 20 个人，我能不能帮你变成 2 个。
 
-## 中美路径的殊途同归
+## 殊途同归
 
 说到这里，很多人会觉得中美路径完全分裂了。
 
