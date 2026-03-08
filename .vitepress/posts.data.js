@@ -7,7 +7,7 @@ export default createContentLoader('posts/*.md', {
     // 按日期排序
     const posts = rawData.map(({ url, frontmatter }) => ({
       title: frontmatter.title,
-      url: url.replace(/\.html$/, ''),
+      url: url + '.html',
       date: frontmatter.date,
       dateStr: formatDate(frontmatter.date),
       year: getYear(frontmatter.date),
