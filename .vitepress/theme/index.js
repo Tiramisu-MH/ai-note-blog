@@ -1,5 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
-import { h, ref, onMounted, useData, defineComponent } from 'vue'
+import { h, ref, onMounted, defineComponent } from 'vue'
+import { useData } from 'vitepress'
 import { data as postsData } from '../posts.data.js'
 import HomeContent from './components/HomeContent.vue'
 import Timeline from './components/Timeline.vue'
