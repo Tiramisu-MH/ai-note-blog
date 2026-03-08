@@ -61,3 +61,17 @@ export default {
     })
   }
 }
+
+
+.VPSidebarItem.level-0.is-link + .VPNavBarAppearance,
+.VPSidebar,
+.VPSidebarOpenButton,
+.VPLocalNavOutlineDropdown,
+button[title="Open sidebar"],
+button[aria-label="Open sidebar"],
+button[title="Toggle sidebar"],
+button[aria-label="Toggle sidebar"],
+.VPLocalNav .menu {
+  display: none !important;
+}
+
