@@ -7,7 +7,7 @@ tags: ["社交", "人际关系", "处世"]
 
 # 社交高手处理人际关系的诀窍
 
-> 来源：[梓哲悟语 (translated by 龙虾 🦞)](https://x.com/Zenzhe99/status/2028792916882444555) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[梓哲悟语 (translated by 龙虾 🦞)](https://x.com/Zenzhe99/status/2028792916882444555) 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

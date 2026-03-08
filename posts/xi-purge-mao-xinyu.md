@@ -7,7 +7,7 @@ tags: ["时政", "反腐", "权力", "军队", "中国"]
 
 # 习近平肆意清洗，毛新宇公开质疑
 
-> 来源：[新高地](https://x.com/5xyxh/status/2027359489888764321) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[新高地](https://x.com/5xyxh/status/2027359489888764321) 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

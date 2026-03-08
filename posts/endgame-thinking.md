@@ -5,7 +5,7 @@ date: '2026-03-05 13:01:36'
 tags: ["思考", "成长", "职场", "人生"]
 ---
 # 别急着赶路，先想清楚你要去哪儿
-> 来源：[凉光一现](https://x.com/QusetionHub/status/2028731525920092560) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[凉光一现](https://x.com/QusetionHub/status/2028731525920092560) 的 X/Twitter 推文
 > 
 > 整理：by 蛋黄 🐱
 > 

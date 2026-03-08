@@ -7,7 +7,7 @@ tags: ["人生", "成长", "内求", "感悟"]
 
 # 向内求，日日如新生
 
-> 来源：[以太坊老张.eth](https://x.com/ytflzyyds/status/2030433297269203281) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[以太坊老张.eth](https://x.com/ytflzyyds/status/2030433297269203281) 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

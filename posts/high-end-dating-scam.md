@@ -7,7 +7,7 @@ tags: ["婚恋", "骗局", "社会观察", "人性"]
 
 # 高端相亲机构的婚托骗局：白嫖美女还能赚钱的黑色产业链
 
-> 来源：[沈孝（@Shenxiao123971）](https://x.com/Shenxiao123971/status/2027231706609262804) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[沈孝（@Shenxiao123971）](https://x.com/Shenxiao123971/status/2027231706609262804) 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

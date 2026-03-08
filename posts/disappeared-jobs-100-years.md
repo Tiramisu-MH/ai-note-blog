@@ -7,7 +7,7 @@ tags: ["职业", "科技", "历史", "AI"]
 
 # 过去100年消失的职业：当年的铁饭碗，如今连名字都没人听过
 
-> 来源：[卢尔辰](https://x.com/erchenlu1/status/2027175343686336865) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[卢尔辰](https://x.com/erchenlu1/status/2027175343686336865) 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

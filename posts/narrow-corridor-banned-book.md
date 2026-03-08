@@ -7,7 +7,7 @@ tags: ["读书", "政治经济学", "制度", "自由"]
 
 # 在中国还未出版的禁书《狭窄的通道》
 
-> 来源：[Finding心归何处](https://x.com/freedominc20631/status/2026737874469793848) 的 X/Twitter 推文 的 X/Twitter 推文
+> 来源：[Finding心归何处](https://x.com/freedominc20631/status/2026737874469793848) 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >
