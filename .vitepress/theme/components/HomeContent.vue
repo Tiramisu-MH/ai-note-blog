@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { computed } from 'vue'
 import { data as postsData } from '../../posts.data.js'
 
 // 获取最新文章 (前5篇)
@@ -7,17 +7,6 @@ const latestPosts = computed(() => postsData.posts.slice(0, 5))
 
 // 获取标签统计
 const tags = computed(() => postsData.tags.slice(0, 8))
-
-// 格式化日期
-const formatDate = (dateStr) => {
-  if (!dateStr) return ''
-  const date = new Date(dateStr)
-  return date.toLocaleDateString('zh-CN', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit'
-  }).replace(/\//g, '-')
-}
 </script>
 
 <template>
@@ -28,7 +17,7 @@ const formatDate = (dateStr) => {
       <ul>
         <li v-for="post in latestPosts" :key="post.url">
           <a :href="post.url">{{ post.title }}</a>
-          <span class="date">{{ formatDate(post.date) }}</span>
+          <span class="date">{{ post.dateStr }}</span>
         </li>
       </ul>
     </section>
@@ -77,6 +66,7 @@ const formatDate = (dateStr) => {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 16px;
 }
 
 .latest-posts a {

@@ -23,12 +23,6 @@ const currentTagPosts = computed(() => {
   const tag = postsData.tags.find(t => t.name === currentTag.value)
   return tag ? tag.posts : []
 })
-
-// 格式化日期
-const formatDate = (dateStr) => {
-  if (!dateStr) return ''
-  return dateStr
-}
 </script>
 
 <template>
@@ -61,7 +55,7 @@ const formatDate = (dateStr) => {
       <ul class="posts-list">
         <li v-for="post in currentTagPosts" :key="post.url" class="post-item">
           <a :href="post.url" class="post-title">{{ post.title }}</a>
-          <span class="date">{{ formatDate(post.date) }}</span>
+          <span class="date">{{ post.date }}</span>
         </li>
       </ul>
       
@@ -148,6 +142,7 @@ const formatDate = (dateStr) => {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 16px;
 }
 
 .post-title {

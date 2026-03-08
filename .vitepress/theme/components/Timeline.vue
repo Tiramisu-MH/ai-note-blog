@@ -4,12 +4,6 @@ import { data as postsData } from '../../posts.data.js'
 
 // 获取按月份分组的时间线数据
 const timeline = computed(() => postsData.timeline)
-
-// 格式化日期
-const formatDate = (dateStr) => {
-  if (!dateStr) return ''
-  return dateStr
-}
 </script>
 
 <template>
@@ -25,7 +19,7 @@ const formatDate = (dateStr) => {
             <a :href="post.url" class="post-title">{{ post.title }}</a>
             <div class="post-meta">
               <span v-for="tag in post.tags" :key="tag" class="tag">{{ tag }}</span>
-              <span class="date">{{ formatDate(post.dateStr) }}</span>
+              <span class="date">{{ post.dateStr }}</span>
             </div>
           </li>
         </ul>
@@ -107,5 +101,6 @@ const formatDate = (dateStr) => {
   color: var(--vp-c-text-3);
   font-size: 13px;
   margin-left: auto;
+  white-space: nowrap;
 }
 </style>

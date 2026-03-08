@@ -1,10 +1,11 @@
 import DefaultTheme from 'vitepress/theme'
-import { h, ref, onMounted, defineComponent } from 'vue'
+import { h, ref, onMounted } from 'vue'
 import { useData } from 'vitepress'
 import { data as postsData } from '../posts.data.js'
 import HomeContent from './components/HomeContent.vue'
 import Timeline from './components/Timeline.vue'
 import Tags from './components/Tags.vue'
+import { formatPostDate } from './utils/postDate.js'
 import './custom.css'
 
 // 导出数据给全局使用
@@ -17,7 +18,7 @@ export default {
   enhanceApp({ app }) {
     // 将数据注入全局
     app.config.globalProperties.$postsData = postsData
-    
+
     // 注册全局组件
     app.component('HomeContent', HomeContent)
     app.component('Timeline', Timeline)
@@ -26,7 +27,7 @@ export default {
   Layout() {
     const { frontmatter } = useData()
     const sidebarCollapsed = ref(false)
-    
+
     onMounted(() => {
       const saved = localStorage.getItem('sidebar-collapsed')
       if (saved === 'true') {
@@ -34,34 +35,11 @@ export default {
         document.documentElement.classList.add('sidebar-collapsed')
       }
     })
-    
+
     const toggleSidebar = () => {
       sidebarCollapsed.value = !sidebarCollapsed.value
       document.documentElement.classList.toggle('sidebar-collapsed')
       localStorage.setItem('sidebar-collapsed', sidebarCollapsed.value)
-    }
-
-    const formatDate = (dateStr) => {
-      if (!dateStr) return new Date().toLocaleString('zh-CN', {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: false
-      }).replace(/\//g, '.')
-      
-      const date = new Date(dateStr)
-      return date.toLocaleString('zh-CN', {
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: false
-      }).replace(/\//g, '.')
     }
 
     return h(DefaultTheme.Layout, null, {
@@ -75,7 +53,7 @@ export default {
         if (date) {
           return h('div', { class: 'post-timestamp' }, [
             h('span', { class: 'timestamp-label' }, '发布于 '),
-            h('span', { class: 'timestamp-value' }, formatDate(date))
+            h('span', { class: 'timestamp-value' }, formatPostDate(date))
           ])
         }
         return null

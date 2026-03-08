@@ -1,7 +1,7 @@
 ---
 title: "Anthropic CEO Dario Amodei：海啸已在地平线上，但没人在看"
 author: "宝玉（@dotey）"
-date: 2026-02-27 18:30:00
+date: '2026-02-27 18:30:00'
 tags: ["AI", "Anthropic", "Claude", "深度访谈", "科技"]
 ---
 
