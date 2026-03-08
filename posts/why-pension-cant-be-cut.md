@@ -7,7 +7,7 @@ tags: ["体制内", "养老金", "官场", "政治", "社会观察"]
 
 # 为什么砍不掉体制内养老金？
 
-> 来源：[lidang 立党](http://x.com/lidangzzz/status/2027141192232702128) 的 X/Twitter 推文
+> 来源：[lidang 立党](http://x.com/lidangzzz/status/2027141192232702128) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

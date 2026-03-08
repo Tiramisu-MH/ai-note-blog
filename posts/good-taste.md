@@ -8,7 +8,7 @@ tags: ['人生']
 
 # 好品位
 
-> 来源：[X/Twitter 原帖](https://mp.weixin.qq.com/s/fHOsrN0nZXYqWhDhgpeS_g) 的微信公众号文章
+> 来源：[X/Twitter 原帖](https://mp.weixin.qq.com/s/fHOsrN0nZXYqWhDhgpeS_g) 的微信公众号文章 的微信公众号文章
 >
 > 整理：by 蛋黄 🐱
 >

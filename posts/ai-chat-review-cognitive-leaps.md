@@ -7,7 +7,7 @@ tags: ["认知", "复盘", "ChatGPT", "Gemini", "笔记", "方法论"]
 
 # 我让 AI 复盘了一年的聊天记录，发现了 20 次认知跃迁
 
-> 来源：[Niko（转载自 X）](https://x.com/guishou_56/status/2023639714281222265) 的 X/Twitter 推文
+> 来源：[Niko（转载自 X）](https://x.com/guishou_56/status/2023639714281222265) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

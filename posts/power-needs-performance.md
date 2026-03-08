@@ -7,7 +7,7 @@ tags: ["权力", "社会", "政治", "思考"]
 
 # 权力真正需要的，从来不是忠诚，而是表演
 
-> 来源：[Morris](https://x.com/morris_lt/status/2027560512876355688) 的 X/Twitter 推文
+> 来源：[Morris](https://x.com/morris_lt/status/2027560512876355688) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

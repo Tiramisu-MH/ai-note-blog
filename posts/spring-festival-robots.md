@@ -7,7 +7,7 @@ tags: ["机器人", "AI", "春晚", "中美对比", "创新"]
 
 # 春晚机器人爆火，但大家的理解都错了
 
-> 来源：[Rui Xu (逐句翻译)](https://x.com/xu545302/status/2023962333786366108) 的 X/Twitter 推文
+> 来源：[Rui Xu (逐句翻译)](https://x.com/xu545302/status/2023962333786366108) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

@@ -7,7 +7,7 @@ tags: ["国债", "债券", "宏观", "收益率曲线", "投资入门"]
 
 # 国债的入门及指标阅读
 
-> 来源：[本杰明乌萨奇（@Corsica267）](https://x.com/Corsica267/article/2024324889495425039) 的 X/Twitter 推文
+> 来源：[本杰明乌萨奇（@Corsica267）](https://x.com/Corsica267/article/2024324889495425039) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

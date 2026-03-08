@@ -7,7 +7,7 @@ tags: ["历史", "金融", "中国", "政治", "党史"]
 
 # 红色金融解构｜枪杆子如何充实钱袋子
 
-> 来源：[雨夜漫步大祭司](https://x.com/fides_ascensio/status/2026085406597578918) 的 X/Twitter 推文
+> 来源：[雨夜漫步大祭司](https://x.com/fides_ascensio/status/2026085406597578918) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

@@ -7,7 +7,7 @@ tags: ["随笔", "健身", "亲子", "思考", "社交"]
 
 # 28号，随笔
 
-> 来源：[太阳](https://x.com/dachaoren/status/2027572778988114125) 的 X/Twitter 推文
+> 来源：[太阳](https://x.com/dachaoren/status/2027572778988114125) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >

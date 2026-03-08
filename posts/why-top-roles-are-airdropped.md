@@ -7,7 +7,7 @@ tags: ["组织管理", "权力结构", "职场"]
 
 # 为什么大多数单位正职都是空降，很难从内部副职提拔？
 
-> 来源：[沈孝](https://x.com/shenxiao123971/status/2026603510444515661) 的 X/Twitter 推文
+> 来源：[沈孝](https://x.com/shenxiao123971/status/2026603510444515661) 的 X/Twitter 推文 的 X/Twitter 推文
 >
 > 整理：by 蛋黄 🐱
 >
