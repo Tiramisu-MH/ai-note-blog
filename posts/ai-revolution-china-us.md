@@ -1,3 +1,10 @@
+---
+title: "同一场 AI 革命，中美创业者却走向了两条路"
+author: "Ray Wang"
+date: 2026-03-05 13:20:00
+tags: ["AI", "创业", "中美", "SaaS"]
+---
+
 # 同一场 AI 革命，中美创业者却走向了两条路
 
 > 来源：[Ray Wang](https://x.com/wangray/status/2028817237411610964) 的 X/Twitter 推文
