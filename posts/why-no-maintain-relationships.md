@@ -8,8 +8,13 @@ tags: ['社会']
 
 # 为什么大家都不维护关系了？
 
-**作者：** BQ南乔  
-**原文：** [X/Twitter](https://x.com/bqnanqiao/status/2024269289793212849)
+> 来源：[X/Twitter 原帖](https://x.com/bqnanqiao/status/2024269289793212849) 的 X/Twitter 推文
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-02-18 00:00:00
+>
+> 标签：社会
 
 ---
 

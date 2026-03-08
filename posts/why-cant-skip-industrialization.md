@@ -5,13 +5,15 @@ date: '2026-02-19 20:05:58'
 tags: ["工业化", "发展经济学", "制造业", "服务业", "全球贸易"]
 ---
 
-# Why developing countries can't skip industrialization
 # 为什么发展中国家无法跳过工业化（全文逐段对照翻译）
 
-> 原文：The Global Currents  
-> 原文链接：<https://www.theglobalcurrents.com/p/why-developing-countries-cant-skip>  
-> 分享来源（X）：<https://x.com/stanlees4/status/2024424821040492566>  
-> 翻译：龙虾 🦞
+> 来源：[The Global Currents（译：龙虾🦞；转引：小陆师傅@STANLEES4）](https://www.theglobalcurrents.com/p/why-developing-countries-cant-skip)
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-02-19 20:05:58
+>
+> 标签：工业化、发展经济学、制造业、服务业、全球贸易
 
 ---
 

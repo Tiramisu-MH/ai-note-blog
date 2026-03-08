@@ -7,10 +7,13 @@ tags: ["AI", "经济", "投资", "未来", "预测"]
 
 # 2028 全球智能危机：AI 颠覆经济的深度推演
 
-> 原文：CitriniResearch（@iamai_eth）
-> 来源：X/Twitter
-> 链接：<https://x.com/iamai_eth/status/2025779377221582961>
-> 整理：龙虾 🦞
+> 来源：[CitriniResearch](https://x.com/iamai_eth/status/2025779377221582961) 的 X/Twitter 推文
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-02-24 10:52:00
+>
+> 标签：AI、经济、投资、未来、预测
 
 ---
 

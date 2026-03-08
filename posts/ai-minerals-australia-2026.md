@@ -7,7 +7,15 @@ tags: ["AI", "矿产", "澳大利亚", "经济", "地缘政治", "深度分析"]
 
 # AI、矿产与澳洲经济：2026，澳洲能迎来“新国运”吗？
 
-> 原文链接：https://x.com/rwayne/status/2027720734211248573
+> 来源：[Roland的思考日记](https://x.com/rwayne/status/2027720734211248573) 的 X/Twitter 推文
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-03-01 00:37:00
+>
+> 标签：AI、矿产、澳大利亚、经济、地缘政治、深度分析
+
+---
 
 [![Image 1: Image](https://pbs.twimg.com/media/HCOF1pvbEAEUa80?format=jpg&name=large)](https://pbs.twimg.com/media/HCOF1pvbEAEUa80?format=jpg&name=orig)
 

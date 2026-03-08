@@ -7,9 +7,13 @@ tags: ["OpenClaw", "AI", "多智能体", "Discord", "系统架构"]
 
 # 我用 OpenClaw 搭了一套 5 角色 AI 协作操作系统
 
-> 原文作者：余温  
-> 来源：[X/Twitter](https://x.com/gkxspace/status/2024093343118950463)  
-> 整理：龙虾 🦞
+> 来源：[余温 (转载自 X)](https://x.com/gkxspace/status/2024093343118950463) 的 X/Twitter 推文
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-02-19 15:49:45
+>
+> 标签：OpenClaw、AI、多智能体、Discord、系统架构
 
 ---
 

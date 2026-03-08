@@ -8,8 +8,13 @@ tags: ['人生']
 
 # 好品位
 
-**作者：** 和菜头  
-**原文：** [微信公众号](https://mp.weixin.qq.com/s/fHOsrN0nZXYqWhDhgpeS_g)
+> 来源：[X/Twitter 原帖](https://mp.weixin.qq.com/s/fHOsrN0nZXYqWhDhgpeS_g) 的微信公众号文章
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-02-17 00:00:00
+>
+> 标签：人生
 
 ---
 

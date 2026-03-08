@@ -5,12 +5,15 @@ date: '2026-02-19 15:23:57'
 tags: ["机器人", "AI", "春晚", "中美对比", "创新"]
 ---
 
-# Spring Festival Gala Robots Went Viral. But The Takes Are Wrong.
 # 春晚机器人爆火，但大家的理解都错了
 
-> 原文作者：Rui Xu  
-> 来源：[X/Twitter](https://x.com/xu545302/status/2023962333786366108)  
-> 翻译：龙虾 🦞
+> 来源：[Rui Xu (逐句翻译)](https://x.com/xu545302/status/2023962333786366108) 的 X/Twitter 推文
+>
+> 整理：by 蛋黄 🐱
+>
+> 日期：2026-02-19 15:23:57
+>
+> 标签：机器人、AI、春晚、中美对比、创新
 
 ---
 
