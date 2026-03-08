@@ -11,7 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/posts/big-things-happening' },
+      { text: '时间线', link: '/timeline' },
       { text: '关于', link: '/about' }
     ],
 

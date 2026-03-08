@@ -2,6 +2,8 @@
 title: 大事正在发生
 description: Matt Shumer 关于 AI 对每个人生活影响的深度长文翻译
 date: 2026-02-10T00:00:00
+tags: ['人生']
+
 ---
 
 # 大事正在发生
