@@ -1,16 +1,32 @@
 import DefaultTheme from 'vitepress/theme'
-import { h, ref, onMounted } from 'vue'
-import { useData } from 'vitepress'
+import { h, ref, onMounted, useData, defineComponent } from 'vue'
+import { data as postsData } from '../posts.data.js'
+import HomeContent from './components/HomeContent.vue'
+import Timeline from './components/Timeline.vue'
+import Tags from './components/Tags.vue'
 import './custom.css'
+
+// 导出数据给全局使用
+if (typeof window !== 'undefined') {
+  window.__POSTS_DATA__ = postsData
+}
 
 export default {
   extends: DefaultTheme,
+  enhanceApp({ app }) {
+    // 将数据注入全局
+    app.config.globalProperties.$postsData = postsData
+    
+    // 注册全局组件
+    app.component('HomeContent', HomeContent)
+    app.component('Timeline', Timeline)
+    app.component('Tags', Tags)
+  },
   Layout() {
     const { frontmatter } = useData()
     const sidebarCollapsed = ref(false)
     
     onMounted(() => {
-      // 从 localStorage 读取保存的状态
       const saved = localStorage.getItem('sidebar-collapsed')
       if (saved === 'true') {
         sidebarCollapsed.value = true
@@ -55,10 +71,13 @@ export default {
       }, sidebarCollapsed.value ? '»' : '«'),
       'doc-after': () => {
         const date = frontmatter.value?.date
-        return h('div', { class: 'post-timestamp' }, [
-          h('span', { class: 'timestamp-label' }, '发布于 '),
-          h('span', { class: 'timestamp-value' }, formatDate(date))
-        ])
+        if (date) {
+          return h('div', { class: 'post-timestamp' }, [
+            h('span', { class: 'timestamp-label' }, '发布于 '),
+            h('span', { class: 'timestamp-value' }, formatDate(date))
+          ])
+        }
+        return null
       }
     })
   }
