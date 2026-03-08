@@ -1,5 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
-import { h, ref, onMounted } from 'vue'
+import { h } from 'vue'
 import { useData } from 'vitepress'
 import { data as postsData } from '../posts.data.js'
 import HomeContent from './components/HomeContent.vue'
@@ -26,28 +26,8 @@ export default {
   },
   Layout() {
     const { frontmatter } = useData()
-    const sidebarCollapsed = ref(false)
-
-    onMounted(() => {
-      const saved = localStorage.getItem('sidebar-collapsed')
-      if (saved === 'true') {
-        sidebarCollapsed.value = true
-        document.documentElement.classList.add('sidebar-collapsed')
-      }
-    })
-
-    const toggleSidebar = () => {
-      sidebarCollapsed.value = !sidebarCollapsed.value
-      document.documentElement.classList.toggle('sidebar-collapsed')
-      localStorage.setItem('sidebar-collapsed', sidebarCollapsed.value)
-    }
 
     return h(DefaultTheme.Layout, null, {
-      'nav-bar-content-before': () => h('button', {
-        class: 'sidebar-toggle',
-        onClick: toggleSidebar,
-        title: sidebarCollapsed.value ? '展开侧边栏' : '收起侧边栏'
-      }, sidebarCollapsed.value ? '»' : '«'),
       'doc-after': () => {
         const date = frontmatter.value?.date
         if (date) {
@@ -60,18 +40,5 @@ export default {
       }
     })
   }
-}
-
-
-.VPSidebarItem.level-0.is-link + .VPNavBarAppearance,
-.VPSidebar,
-.VPSidebarOpenButton,
-.VPLocalNavOutlineDropdown,
-button[title="Open sidebar"],
-button[aria-label="Open sidebar"],
-button[title="Toggle sidebar"],
-button[aria-label="Toggle sidebar"],
-.VPLocalNav .menu {
-  display: none !important;
 }
 
