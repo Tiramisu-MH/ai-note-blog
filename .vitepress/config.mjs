@@ -15,10 +15,8 @@ export default defineConfig({
       { text: '关于', link: '/about' }
     ],
 
-    sidebar: [
-      {
-        text: '文章',
-        items: [
+    // 侧边栏 - 禁用，通过时间线访问
+    sidebar: false,
           { text: '向内求，日日如新生', link: '/posts/neiqiu' },
           { text: '别急着赶路，先想清楚你要去哪儿', link: '/posts/endgame-thinking' },
           { text: '同一场 AI 革命，中美创业者却走向了两条路', link: '/posts/ai-revolution-china-us' },
